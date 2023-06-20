@@ -8,6 +8,6 @@
 
 
 <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzhanyildiz22&theme=ocean_dark&show_icons=true&count_private=true)"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzhanyildiz22&layout=compact&langs_count=8&theme=ocean_dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzhanyildiz22&theme=dark&show_icons=true&count_private=true)"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzhanyildiz22&layout=compact&langs_count=8&theme=dark"/>
 </p>
