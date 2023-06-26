@@ -13,7 +13,7 @@
 
 <p align="left">📫 How to reach me:</p>
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/o%C4%9Fuzhan-yildiz-9b690624b/)</br></br></br></br></br>
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/o%C4%9Fuzhan-yildiz-9b690624b/)</br></br>
 
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzhanyildiz22&theme=dark&show_icons=true&count_private=true)"/>
