@@ -15,7 +15,7 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/oğuzhanyildiz)
 
-<p align="left">
+<p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzhanyildiz22&theme=dark&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzhanyildiz22&layout=compact&langs_count=8&theme=dark"/>
 </p>
