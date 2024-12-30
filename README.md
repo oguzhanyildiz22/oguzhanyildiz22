@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Oğuzhan YILDIZ. I am a second-year student studying Software Engineering at Sakarya University.<br><br>🔭 Currently, I am developing software in the backend using Java-Spring Boot. I am focusing on improving my skills in the backend field.<br><br>🌱 I also want to improve myself by learning new things in other areas of software development.I enjoy learning and implementing new things, and I closely follow technology trends.
+👋 I'm Oğuzhan YILDIZ. I am a third-year student studying Software Engineering at Sakarya University.<br><br>🔭 Currently, I am developing software in the backend using Java-Spring Boot. I am focusing on improving my skills in the backend field.<br><br>🌱 I also want to improve myself by learning new things in other areas of software development.I enjoy learning and implementing new things, and I closely follow technology trends.
 
 
 ## 🌐 Socials:
